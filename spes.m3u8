@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1654988694~acl=/hls-p/ingest_205_*/*~hmac=a92e13acd15e8d0f4b51847c38651044ef6e7e52a77ea28359317b53a92067ea/hls-p/ingest_205_720p/index.m3u8
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_1080p/chunks.m3u8?p=53&s=1655230925&e=1655317325&cf=1655317325&h=6fd33ab303c5dc27e9ec73ed65fa3636
