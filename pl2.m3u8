@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2560000
-http://45.86.191.47:8081/live/ch1/chunks.m3u8
+https://yytcpull.gdsth.com/live/stream-308116.m3u8?txSecret=5fa1c831b3d373216377b00dd1e709f8&txTime=63aeaa01
