@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2560000
-https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1667690599-0-0-b225c52a0625f263bdfc5eb701786676
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
+https://179314182.global.cdnfastest.com/live/live/playlist.m3u8
