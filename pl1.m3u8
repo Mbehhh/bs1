@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://yypull.gdsth.com/live/stream-478496.m3u8?auth_key=1673017457-0-0-63e331dcf539f8e633099c0d349fef33
+https://yytcpull.gdsth.com/live/stream-308116.m3u8?txSecret=7fa8340f81aa7b04b9fe0a5d0875fbf3&txTime=63bd570c
