@@ -1,5 +1,8 @@
-#EXTM3U
+#EXTM3U 
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2560000
-https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1672769050-0-0-e99ab30030a46b862a3668dd264b0ad4
+
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me
+https://newtest.webtv1.lol/ddy2/premium400/tracks-v1a1/mono.m3u8
